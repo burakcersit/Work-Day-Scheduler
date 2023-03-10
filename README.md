@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
 Created a simple calendar application that allows a user to save events for working hours of the day. 
 
