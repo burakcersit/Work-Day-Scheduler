@@ -6,5 +6,5 @@ Deployed Link: https://burakcersit.github.io/Work-Day-Scheduler/
 
 Technologies used are: HTML, CSS, Javascript, JQuery, Bootstrap, Moment.js
 
-##Screenshot
+## Screenshot
 ![alt text](./Develop/screenshot.png)
